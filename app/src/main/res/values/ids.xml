@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="teamfb_name" type="id"/>
+    <item name="teamfb_img" type="id"/>
+</resources>
