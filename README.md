@@ -4,4 +4,5 @@ Aplikasi ini merupakan aplikasi pertama menggunakan kotlin ketika mengikuti prog
 Aplikasi ini menggunakan implementasi AnkoLayout Libary dan Anko Common. Untuk list, menggunakan recycler view
 
 ## Requirement
-Pastikan menggunakan kotlin versi terbaru 
+* kotlin-plugin 1.2.61
+* anko-version 0.10.5
